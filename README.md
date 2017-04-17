@@ -1,0 +1,2 @@
+# Autocorrelations-of-the-Standardized-Returns-and-Their-Squares
+What was the conditional probability of a return this small or smaller on Black Monday? The data used was the period from January 1981 to April 1991.  Black Monday is the 1805th return in this dataset.  get estimates of the parameters of the model using GARCH (1,1).  Compute the standardized returns to see if its normally distributed. 
